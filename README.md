@@ -2,7 +2,7 @@
 
 A native macOS SSH client and terminal manager. Supports SSH terminals, RDP remote desktop with clipboard and drive sharing, SCP file transfers, and multi-session command broadcasting — all in a single self-contained app.
 
-**Author:** Yaniv Hemi | **License:** MIT | **macOS 13.0+** | **Apple Silicon (arm64)**
+**Author:** Yaniv Hemi | **License:** MIT
 
 ---
 
