@@ -210,4 +210,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-**MacTermy** — Built with SwiftUI. Inspired by MobaXterm.
+**MacTermy** — Built with SwiftUI.
